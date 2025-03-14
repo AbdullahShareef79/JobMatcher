@@ -1,6 +1,3 @@
-
-
-```md
 # CareerMatch Pro
 
 CareerMatch Pro is a web application that helps job seekers analyze their resumes and find matching job opportunities. It uses AI-powered resume parsing to extract key information (e.g., personal info, work experience, education, skills) and matches the resume with relevant job postings.
@@ -213,12 +210,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Abdullah Shareef**: [Your Email](mailto:your-email@example.com)
+- **Abdullah Shareef**: [abdullahshareef7945512@gmail.com](mailto:abdullahshareef7945512@gmail.com)
 - **GitHub**: [AbdullahShareef79](https://github.com/AbdullahShareef79)
-
----
-
-This `README.md` file provides a comprehensive overview of your project. You can customize it further to suit your needs. Let me know if you need help with anything else! 🚀
-``` 
-
-Just copy and paste this into your `README.md` file! 🚀
